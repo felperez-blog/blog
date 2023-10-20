@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Thougths Archive
+title: My Thoughts Archive
 # Your name to show in the footer
 author: Felperez
 
@@ -23,7 +23,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  My professional site: "felperez.com"
+  My professional site: "http://felperez.com"
 
 ################
 # --- Logo --- #
