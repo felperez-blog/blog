@@ -19,11 +19,8 @@ author: Felperez
 ###############################################
 
 navbar-links:
+  What is this: "what"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  My professional site: "http://felperez.com"
 
 ################
 # --- Logo --- #
@@ -118,7 +115,7 @@ edit_page_button: true
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
 navbar-var-length: false
 
-# The keywords to associate with your website, for SEO purposes
+# The keywords to associate with your website, for SEO puroposes
 #keywords: "my,list,of,keywords"
 
 ######################################
@@ -214,9 +211,7 @@ footer-hover-col: "#0085A1"
 # not to BeautifulJekyll.
 #staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-#  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
-#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
+#  branch     : master # If you're not uColarameters in `staticman.yml` as well) 
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
@@ -293,4 +288,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
